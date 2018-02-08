@@ -16,7 +16,7 @@ module.exports = {
 };
 ```
 
-The default configuration ships with configuration for a single development network, running on `127.0.0.1:8545`. There are many other configuration options, detailed below.
+The default configuration is made for a single development network running on `127.0.0.1:8545`. There are many other configuration options, detailed below.
 
 
 ### Resolving naming conflicts on Windows
